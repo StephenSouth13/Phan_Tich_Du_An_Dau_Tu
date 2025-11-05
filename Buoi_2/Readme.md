@@ -109,3 +109,5 @@ Cơ hội = nhìn “lợi ích tương lai bị mất”.
 
 Chìm = nhìn “quá khứ, bỏ qua”.
 
+Chi phí khấu hao có phải là một hạng mục trong báo cáo ngân lưu không ?
+Trả lời Khấu hao là khoản mục chi phí chứ k phải là một khoản thực chi
