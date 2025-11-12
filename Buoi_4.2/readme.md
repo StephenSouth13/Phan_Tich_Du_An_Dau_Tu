@@ -132,75 +132,7 @@ Tuy nhiên, DPP không phản ánh lợi nhuận sau thời gian hoàn vốn, n�
 
 DSCR (Debt Service Coverage Ratio) là chỉ tiêu được các ngân hàng sử dụng để đánh giá khả năng trả nợ của dự án.
 
-𝐷
-𝑆
-𝐶
-𝑅
-=
-D
-o
-ˋ
-ng ti
-e
-ˆ
-ˋ
-n thu
-a
-ˆ
-ˋ
-n (sau thu
-e
-ˆ
-ˊ
- + kh
-a
-ˆ
-ˊ
-u hao)
-Nợ g
-o
-ˆ
-ˊ
-c + L
-a
-˜
-i vay phải trả trong n
-a
-˘
-m
-DSCR=
-Nợ g
-o
-ˆ
-ˊ
-c + L
-a
-˜
-i vay phải trả trong n
-a
-˘
-m
-D
-o
-ˋ
-ng ti
-e
-ˆ
-ˋ
-n thu
-a
-ˆ
-ˋ
-n (sau thu
-e
-ˆ
-ˊ
- + kh
-a
-ˆ
-ˊ
-u hao)
-	​
+![alt text](5.png)
 
 Giá trị DSCR	Đánh giá
 > 1	Dự án có khả năng trả nợ tốt
