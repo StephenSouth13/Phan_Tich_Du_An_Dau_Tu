@@ -131,6 +131,7 @@ Tuy nhiên, DPP không phản ánh lợi nhuận sau thời gian hoàn vốn, n�
 💳 4. DSCR – Hệ số khả năng trả nợ
 
 DSCR (Debt Service Coverage Ratio) là chỉ tiêu được các ngân hàng sử dụng để đánh giá khả năng trả nợ của dự án.
+##
 
 ![alt text](5.png)
 
@@ -147,6 +148,13 @@ NPV	Giá trị hiện tại thuần	NPV > 0	Thước đo giá trị tuyệt đ�
 IRR	Tỷ suất hoàn vốn nội bộ	IRR > r	Thước đo lợi nhuận tương đối
 DPP	Thời gian hoàn vốn có chiết khấu	DPP càng ngắn càng tốt	Đo khả năng thu hồi vốn
 DSCR	Khả năng trả nợ	DSCR ≥ 1.2	Đánh giá rủi ro tín dụng
+
+
+Quy tắc 2: Nếu ngân sách giới hạn cần chọn NPV lớn nhất
+
+MARR = r có wacc và re 
+
+Tại sao người ta dùng 2 chỉ tiêu cho MARR
 🧠 Ghi nhớ
 
 “Một dự án tốt không chỉ có NPV dương, mà còn cần IRR cao, DPP ngắn, và DSCR an toàn.”
