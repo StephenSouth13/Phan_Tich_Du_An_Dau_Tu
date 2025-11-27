@@ -22,3 +22,6 @@ Vào What-If Analysis
 - Data table
 
 Nhấn chọn nếu theo hàng chọn Row input Cell
+
+Chỉ tiêu IRR thì phải so với WACC
+Còn quan điểm chủ đầu tư với IR
